@@ -23,11 +23,14 @@
     <br />
   </p>
 </p>
+<br/>
 LENZ Encoders are non-contact bearingless absolute angle encoders. Two printed circuit board design is perfect to match wide variety of control and
-measurements applications with limited space. Precise position data up to 22 bits and reliable fast feedback in harsh environments.  
-
-LENZ encoders are inductive position sensors based on the physical principles of electromagnetic induction. Our encoders combine easy installation, low integration cost, high accuracy, stability over time, are extremely robust.  
-
+measurements applications with limited space. Precise position data up to 22 bits and reliable fast feedback in harsh environments.
+<br/>
+<br/>
+LENZ encoders are inductive position sensors based on the physical principles of electromagnetic induction. Our encoders combine easy installation, low integration cost, high accuracy, stability over time, are extremely robust.    
+<br/>
+<br/>
 LENZ encoders are insensitive to electromagnetic fields, permanent magnets, power lines, parasitic
 capacitance, metallic parts and electrical noises. 
 
