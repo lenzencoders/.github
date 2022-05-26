@@ -9,7 +9,6 @@
     <a href="https://lenzencoders.com"><strong>lenzencoders.com »</strong></a>
     <br />
     <br />
-    <b>Download for </b>
     Simple Installation
     ·
     Bearingless
